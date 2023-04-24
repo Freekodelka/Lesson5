@@ -1,0 +1,15 @@
+D:\000\Lesson5\Task34\bin\Debug\net6.0\Task34.exe
+D:\000\Lesson5\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\000\Lesson5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\000\Lesson5\Task34\bin\Debug\net6.0\Task34.dll
+D:\000\Lesson5\Task34\bin\Debug\net6.0\Task34.pdb
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.dll
+D:\000\Lesson5\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.pdb
+D:\000\Lesson5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\000\Lesson5\Task34\obj\Debug\net6.0\ref\Task34.dll
